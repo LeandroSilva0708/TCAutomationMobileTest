@@ -1,0 +1,14 @@
+{
+	"iPhone X": {
+		"platformName": "iOS",
+		"platformVersion": "15.4",
+		"deviceName": "iPhone X",
+		"udid": "c3b2a73075c11ae607d349321b38d975b6be9fc9",
+		"app": "/Users/ericksilva/Documents/Projects/TCAutMobile/tcautmobile/src/main/resources/br/com/tc/tradersclub/app/TradersClub.ipa",
+		"automationName": "XCUITest",
+		"bundleId": "com.tradersclub.tc.TradersClub",
+		"xcodeOrgId": "QJ89746L5Y",
+		"xcodeSignId": "iPhone Developer",
+		"fullReset": true
+	}
+}

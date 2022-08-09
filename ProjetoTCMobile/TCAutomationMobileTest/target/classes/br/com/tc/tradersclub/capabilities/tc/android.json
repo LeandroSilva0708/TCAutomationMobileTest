@@ -1,0 +1,12 @@
+{
+	"Galaxy_S20P": {
+		"deviceName": "android_a",
+		"automationName": "UiAutomator2",
+		"platformName": "Android",
+		"platformVersion": "12",
+		"appPackage": "com.tradersclub.tc",
+		"appActivity": ".MainActivity",
+		"app": "Users/ericksilva/Documents/Projects/TCAutMobile/tcautmobile/src/main/resources/br/com/tc/tradersclub/app/TCAppAndroidRelease.apk",
+		"fullReset": true
+	}
+}
